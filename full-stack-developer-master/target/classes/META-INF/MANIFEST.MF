@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: full-stack
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: tanpatra
+Implementation-Vendor-Id: com.hcl.hackathon
+Build-Jdk: 1.8.0_191
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/full-stack
+Created-By: Maven Integration for Eclipse
+
